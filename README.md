@@ -19,6 +19,6 @@
 
 - 出力は CSV です。
 
-```
+```bash
 % bundle exec ruby scraping_rakuten.rb
 ```
